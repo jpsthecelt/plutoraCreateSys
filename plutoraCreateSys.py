@@ -128,7 +128,7 @@ if __name__ == '__main__':
 
     # If we don't specify a configfile on the commandline, assume one & try accessing
     if len(config_filename) <= 0:
-        config_filename = 'syscreate.cfg'
+        config_filename = 'credentials.cfg'
 
     # using the specified/assumed configfilename, grab ClientId & Secret from manual setup of Plutora Oauth authorization.
     try:

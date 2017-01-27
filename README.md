@@ -12,6 +12,6 @@ instance associated with your login.
 
 The 'system' parameters are contained in the file specified 
 after the -f' commandline parameter, elsewise in a file in the local
-directory named 'syscreate.cfg'
+directory named 'credentials.cfg'
 
 	12.23.16-jps
